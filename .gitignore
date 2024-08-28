@@ -1,0 +1,8 @@
+# output dirs
+.output
+.output_threaded
+.output_async
+.output_sync
+
+.idea/
+.venv
